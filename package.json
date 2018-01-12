@@ -1,0 +1,20 @@
+{
+	"name": "TTS-trial",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.15.x",
+		"cfenv": "1.0.x",
+		"cors": "^2.8.1",
+		"request": "^2.79.0",
+    "watson-developer-cloud": "^2.18.0",
+		"body-parser": "^1.16.1"
+	},
+	"repository": {},
+	"engines": {
+		"node": "6.x"
+	}
+}
