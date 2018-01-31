@@ -26,7 +26,7 @@ For example:
 
 Set the api endpoint to connect to IBM Cloud
 
-    api https://api.ng.bluemix.net
+    bx api https://api.eu-de.bluemix.net
 
 Login to the IBM Cloud CLI
 
