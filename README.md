@@ -32,6 +32,10 @@ Login to the IBM Cloud CLI
 
     bx login
 
+Set the cf organization and space.
+
+    bx target -o ORG -s SPACE
+
 Push the app to IBM Cloud
 
     bx app push
